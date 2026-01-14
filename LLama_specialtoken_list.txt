@@ -1,0 +1,16 @@
+<s>
+</s>
+[INST]
+[/INST]
+<<SYS>>
+<</SYS>>
+<|begin_of_text|>
+<|end_of_text|>
+<|start_header_id|>
+<|end_header_id|>
+<|eot_id|>
+<|eom_id|>
+<|step_id|>
+<|fim_prefix|>
+<|fim_middle|>
+<|fim_suffix|>

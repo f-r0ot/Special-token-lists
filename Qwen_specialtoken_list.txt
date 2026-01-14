@@ -1,0 +1,9 @@
+<|im_start|>
+<|im_end|>
+<|endoftext|>
+<tools>
+</tools>
+<tool_call>
+</tool_call>
+<think>
+</think>

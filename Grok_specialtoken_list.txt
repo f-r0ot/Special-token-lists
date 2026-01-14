@@ -1,0 +1,8 @@
+[UNK]
+[BOS]
+[EOS]
+[PAD]
+<|separator|>
+<|mask|>
+<|control1|> to <|control20|>
+<0x00> to <0xFF> 
