@@ -1,6 +1,6 @@
 # 🔐 Special Tokens in LLMs — Security Research Archive
 
-This repository contains curated lists of **special tokens** used by various **Large Language Models (LLMs)**, collected and analyzed for **security research purposes**.
+This repository contains curated lists of **special tokens** ##### and more ## used by various **Large Language Models (LLMs)**, collected and analyzed for **security research purposes**.
 
 ## 🧠 Purpose
 
